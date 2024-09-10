@@ -1,2 +1,3 @@
 # Base-Converter
-Made a base converter in python, its an intermediate level project with a few changes still being needed to make.
+made a base converter completely in python, its an intermediate level project with a few changes needed to be made to it (error handling and efficiency).
+
